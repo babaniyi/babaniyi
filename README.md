@@ -1,5 +1,5 @@
 ### Hi there 👋
-Here are some ideas to get you started:
+### About Me
 
 - 🔭 BI Data Engineer who takes pride in designing data processing systems and operationalizing machine learning models.
 - 🌱 I’m currently learning the efficient use of GCP to leverage, deploy, and continuously train pre-existing machine learning models.
