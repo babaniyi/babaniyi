@@ -8,8 +8,8 @@
 
 - 📫 How to find me: 
   - :bulb: [Medium articles](http://medium.com/babaniyi)
-  - :blog: [Daily Tips](http://babaniyi.substack.com)
-  - :LinkedIn: [LinkedIn](http://linkedin.com/in/babaniyi)
+  - 🖨️ [Daily Tips](http://babaniyi.substack.com)
+  - 🟫: [LinkedIn](http://linkedin.com/in/babaniyi)
 
 [![Babaniyi's github stats](https://github-readme-stats.vercel.app/api?username=babaniyi&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/babaniyi)
 
