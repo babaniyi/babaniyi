@@ -1,10 +1,10 @@
 ### Hi there 👋
 ### About Me
 
-- 🔭 Data Scientist who takes pride in designing data processing systems and operationalizing machine learning models.
-- 🌱 I’m currently learning the efficient use of GCP to leverage, deploy, and continuously train pre-existing machine learning models.
+- 🔭 Your Next Numbers guy
+- 🌱 I’m currently learning the efficient use of cloud systems to leverage, deploy, and continuously train pre-existing machine learning models.
 - 👯 I’m looking to collaborate on application of data science and ML techniques to solve business, health and practical problems.
-- 💬 Ask me about Data Science , Data Engineering, Statistics and Machine Learning.
+- 💬 Ask me about Data Science, Statistics and Machine Learning.
 
 - 📫 How to find me: 
   - :bulb: [Medium articles](http://medium.com/babaniyi)
