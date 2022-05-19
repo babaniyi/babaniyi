@@ -8,7 +8,7 @@
 
 - 📫 How to find me: 
   - :bulb: [Medium articles](http://medium.com/babaniyi)
-  - 🖨️ [Blog](http://babaniyi.substack.com)
+  - 🖨️ [Website](http://babaniyi.com)
   - 🟫: [LinkedIn](http://linkedin.com/in/babaniyi)
 
 
