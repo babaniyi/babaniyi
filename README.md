@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### About Me
 
-- 🔭 Your Next Numbers guy
+- 🔭 Data Scientist and Machine Learning Engineer
 - 🌱 I’m currently learning the efficient use of cloud systems to leverage, deploy, and continuously train pre-existing machine learning models.
 - 👯 I’m looking to collaborate on application of data science and ML techniques to solve finance, ecommerce, supply chain, health and practical problems.
 - 💬 Ask me about Data Science, Statistics and Machine Learning.
