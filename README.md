@@ -2,8 +2,8 @@
 ### About Me
 
 - 🔭 Data Scientist and Machine Learning Engineer
-- 🌱 I’m currently interested in the applied machine learning and system designs behind leading companies products and platforms. In particular, I'm interested in:
-    - How the problem is framed 🔎(e.g., personalization as recsys vs. search vs. sequences)
+- 🌱 Applied machine learning and system designs that support the platforms and products of large institutions currently pique my interest. I am interested in:
+    - How they frame their problems 🔎(e.g., personalization as recsys vs. search vs. sequences)
     - What machine learning techniques worked ✅ (and sometimes, what didn't ❌)
     - Why it works, the science behind it with research, literature, and references 📂
     - What real-world results were achieved (so one can better assess ROI ⏰💰📈)
