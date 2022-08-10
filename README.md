@@ -2,13 +2,18 @@
 ### About Me
 
 - 🔭 Data Scientist and Machine Learning Engineer
-- 🌱 I’m currently learning the efficient use of cloud systems to leverage, deploy, and continuously train pre-existing machine learning models.
+- 🌱 I’m currently interested in the applied machine learning and system designs behind leading companies products and platforms. In particular, I'm interested in:
+    - How the problem is framed 🔎(e.g., personalization as recsys vs. search vs. sequences)
+    - What machine learning techniques worked ✅ (and sometimes, what didn't ❌)
+    - Why it works, the science behind it with research, literature, and references 📂
+    - What real-world results were achieved (so one can better assess ROI ⏰💰📈)
+
 - 👯 I’m looking to collaborate on application of data science and ML techniques to solve finance, ecommerce, supply chain, health and practical problems.
 - 💬 Ask me about Data Science, Statistics and Machine Learning.
 
 - 📫 How to find me: 
-  - :bulb: [Medium articles](http://medium.com/babaniyi)
   - 🖨️ [Website](http://babaniyi.com)
+  - :bulb: [Medium articles](http://medium.com/babaniyi)
   - 🟫: [LinkedIn](http://linkedin.com/in/babaniyi)
 
 
