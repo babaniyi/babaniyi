@@ -9,12 +9,12 @@
     - What real-world results were achieved (so one can better assess ROI ⏰💰📈)
 
 - 👯 I’m looking to collaborate on application of data science and ML techniques to solve finance, ecommerce, supply chain, health and practical problems.
-- 💬 Ask me about Data Science, Statistics and Machine Learning.
 
 - 📫 How to find me: 
   - 🖨️ [Website](http://babaniyi.com)
-  - :bulb: [Medium articles](http://medium.com/babaniyi)
   - 🟫: [LinkedIn](http://linkedin.com/in/babaniyi)
+  - :bulb: [Medium articles](http://medium.com/babaniyi)
+  
 
 
 
