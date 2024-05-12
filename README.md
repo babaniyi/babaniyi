@@ -2,7 +2,7 @@
 ### About Me
 
 - 🔭 Data Scientist and Machine Learning Engineer
-- 🌱 Applied machine learning and system designs that support the platforms and products of large institutions currently pique my interest. I am interested in the application of data science, ML & AI to solve business in e-commerce, supply chain and health industries.
+- 🌱 Applied machine learning and system designs that support the platforms and products of large institutions currently pique my interest.
     - **Research interests 🎴:** recommender systems, forecasting, a/b testing and experimentation, natural language processing
       
 - 📫 How to find me: 
