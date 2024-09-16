@@ -1,16 +1,16 @@
-### Hi there 👋
 ### About Me
+👋 Data Scientist & ML Engineer
+I’m passionate about building scalable ML systems to solve real-world challenges. My work focuses on:
 
-- 🔭 Data Scientist and Machine Learning Engineer
-- 🌱 Applied machine learning and system designs that support the platforms and products of large institutions currently pique my interest.
-    - **Research interests 🎴:** recommender systems, forecasting, a/b testing and experimentation, natural language processing
-      
-- 📫 How to find me: 
-  - 🖨️ [Website](http://babaniyi.com)
-  - 🟫: [LinkedIn](http://linkedin.com/in/babaniyi)
-  - :bulb: [Medium articles](http://medium.com/babaniyi)
+- *Recommender Systems: Enhancing personalization.
+- *Forecasting:* Time-series analysis.
+- *A/B Testing & Experimentation:* Data-driven product improvements.
+- *NLP + LLMs:* Text-based insights and modelling.
   
+🔧 Skills: Machine Learning, NLP, Model Deployment, Python, PyTorch, 
 
+📫 Connect: [Website](http://babaniyi.com) | [LinkedIn](http://linkedin.com/in/babaniyi)
+      
 
 <!--
 [![Babaniyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=babaniyi&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/babaniyi)
