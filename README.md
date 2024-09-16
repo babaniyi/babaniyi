@@ -2,10 +2,10 @@
 👋 Data Scientist & ML Engineer
 I’m passionate about building scalable ML systems to solve real-world challenges. My work focuses on:
 
-- *Recommender Systems: Enhancing personalization.
-- *Forecasting:* Time-series analysis.
-- *A/B Testing & Experimentation:* Data-driven product improvements.
-- *NLP + LLMs:* Text-based insights and modelling.
+- ⛵ Recommender Systems: Enhancing personalization.
+- 📊 Forecasting: Time-series analysis.
+- 📍 A/B Testing & Experimentation: Data-driven product improvements.
+- 📎 NLP + LLMs: Text-based insights and modelling.
   
 🔧 Skills: Machine Learning, NLP, Model Deployment, Python, PyTorch, 
 
