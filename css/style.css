@@ -1,4 +1,60 @@
-/*----------------------------------------------------
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fafafa;
+  color: #222;
+  line-height: 1.6;
+}
+
+header, footer {
+  background: #fff;
+  padding: 1.5rem 2rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.03);
+}
+
+header h1 {
+  margin: 0 0 0.5rem 0;
+  font-size: 2rem;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 1.5rem;
+  margin: 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: #007acc;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+nav a:hover {
+  color: #005f99;
+}
+
+main {
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+article h2 {
+  margin-top: 0;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.95rem;
+  margin-top: 2rem;
+}/*----------------------------------------------------
 @File: Default Styles
 @Author: Rocky Ahmed
 @URL: http://wethemez.com
