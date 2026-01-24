@@ -1,17 +1,26 @@
-### About Me
+# Hi, I’m Babs 👋
 
-<h3>Hi, I'm Babaniyi 👋 </h3> 
+I’m a Data Scientist working on applied AI, product analytics, and decision-support systems.
 
-I'm a Data Scientist & ML Engineer passionate about building scalable ML systems to solve real-world problems. 
+My work focuses on building machine learning models, experiments, and analytics pipelines that help teams understand model behavior and make better decisions in real-world settings. I’ve worked across AI-driven products, healthcare systems, and large-scale data platforms.
 
-My work focuses on enhancing personalization using Recommender Systems, Forecasting, A/B Testing & Experimentation, NLP + LLMs.
+## What I work on
+- Applied machine learning and data science
+- Product analytics, metrics, and experimentation
+- LLM-based systems and recommender models
+- Decision-support and analytics pipelines that ship to production
 
-📫 Connect: [Website](http://babaniyi.com) | [LinkedIn](http://linkedin.com/in/babaniyi)
+## Selected projects
+- **Multimodal LLM Recommender Systems** – combining text and image embeddings to study product recommendation performance at scale  
+- **LLM-based Product Recommendation** – fine-tuning and evaluating language models for next-item prediction  
+- **Applied forecasting and pricing analytics** – demand forecasting, elasticity modeling, and product analytics in production environments  
+- **Healthcare analytics** – decision-support models for financing, provider performance, and resource allocation
 
-      
+## Interests
+- Applied AI and generative models in products
+- Experimentation and metrics beyond simple statistical significance
+- How models behave in production and influence decisions
 
-<!--
-[![Babaniyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=babaniyi&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/babaniyi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babaniyi)](https://github.com/babaniyi)
-**babaniyi/babaniyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Most of my work is in **Python and SQL**, with applied ML tooling where it adds real value.
+
+Feel free to explore the repos or reach out.
