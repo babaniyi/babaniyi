@@ -16,11 +16,4 @@ My work focuses on building machine learning models, experiments, and analytics 
 - **Applied forecasting and pricing analytics** – demand forecasting, elasticity modeling, and product analytics in production environments  
 - **Healthcare analytics** – decision-support models for financing, provider performance, and resource allocation
 
-## Interests
-- Applied AI and generative models in products
-- Experimentation and metrics beyond simple statistical significance
-- How models behave in production and influence decisions
-
-Most of my work is in **Python and SQL**, with applied ML tooling where it adds real value.
-
 Feel free to explore the repos or reach out.
