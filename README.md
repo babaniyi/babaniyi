@@ -13,7 +13,7 @@ My work focuses on building machine learning models, experiments, and analytics 
 ## Selected projects
 - **Multimodal LLM Recommender Systems** – combining text and image embeddings to study product recommendation performance at scale  
 - **LLM-based Product Recommendation** – fine-tuning and evaluating language models for next-item prediction  
-- **Applied forecasting and pricing analytics** – demand forecasting, elasticity modeling, and product analytics in production environments  
+- **Applied forecasting and pricing analytics** – demand forecasting, elasticity modeling, and product analytics  
 - **Healthcare analytics** – decision-support models for financing, provider performance, and resource allocation
 
 Feel free to explore the repos or reach out.
